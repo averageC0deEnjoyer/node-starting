@@ -1,0 +1,20 @@
+{
+  "name": "starting",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "upper-case": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
